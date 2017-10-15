@@ -1,7 +1,7 @@
 UDP Multicast Example
 =======================
 
-**Extracted from:** [http://web.nchu.edu.tw/~jlu/cyut/multicast.shtml](http://web.nchu.edu.tw/~jlu/cyut/multicast.shtml)
+**Extracted from:** [http://web.nchu.edu.tw/~jlu/cyut/multicast.shtml](http://web.nchu.edu.tw/~jlu/cyut/multicast.shtml) plus some modification
 
 **DatagramSocket**s
 ===================
