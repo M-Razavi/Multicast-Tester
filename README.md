@@ -1,8 +1,5 @@
 UDP Multicast Example
 =======================
-# Multicast-Tester
-Some example for multicast by Java
-
 
 **Extracted from:** [http://web.nchu.edu.tw/~jlu/cyut/multicast.shtml](http://web.nchu.edu.tw/~jlu/cyut/multicast.shtml)
 
